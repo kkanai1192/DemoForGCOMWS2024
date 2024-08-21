@@ -1,4 +1,4 @@
-# Demo Video for GCOM W S2024 paper.
+# Demo Video for GCOM WS 2024 paper.
 
 Live action demonstration videos of location-aware network slicing for a secure communication spot
 
